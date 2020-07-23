@@ -1,0 +1,39 @@
+body{
+    text-align: center !important;
+    padding: auto !important;
+    
+}
+.row{
+    text-align: center !important;
+    margin: auto !important;
+    width: 85% !important;
+
+}
+.alert-dark{
+    padding: 6px !important;
+    padding-top: 12px !important;
+}
+.row{
+    margin-top: 25px !important;
+}
+a{
+    margin-top: 5px !important;
+}
+.card-footer{
+    text-align: center;
+    background-image: url("https://image.freepik.com/free-photo/dark-blue-product-background_53876-89503.jpg") !important;
+}
+.alert-light{
+    margin: auto !important;
+    width: fit-content !important;
+    padding: 12px !important;
+    border-radius: 8px !important;
+    font-size: large !important;
+}
+#bodyMain{
+    background-image: url("https://image.freepik.com/free-photo/dark-blue-product-background_53876-92801.jpg") !important;
+}
+.card-header{
+    color: aliceblue !important;
+    background-image: url("https://image.freepik.com/free-photo/dark-blue-product-background_53876-89503.jpg") !important;
+}
