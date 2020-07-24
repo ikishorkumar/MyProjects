@@ -3,6 +3,9 @@ body{
     padding: auto !important;
     
 }
+.card{
+    border-radius: 18px 0 !important;
+}
 .row{
     text-align: center !important;
     margin: auto !important;
